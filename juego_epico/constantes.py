@@ -1,0 +1,5 @@
+ANCHO_VENTANA =  1500
+ALTO_VENTANA = 800
+FPS = 120
+
+PATH_IMAGES = "programacion_i\images"
